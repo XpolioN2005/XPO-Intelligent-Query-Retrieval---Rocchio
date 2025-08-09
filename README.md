@@ -12,6 +12,9 @@
 
 ## 🧠 Overview
 
+#### ONE OF CONTRIBUTER OF
+### Original: https://github.com/AnirbansarkarS/Intelligent-Query-Retrieval---Rocchio
+
 This project builds an **LLM-driven intelligent retrieval system** that can:
 - Parse **large unstructured documents** (PDFs, DOCX, emails)
 - Understand **natural language queries**
